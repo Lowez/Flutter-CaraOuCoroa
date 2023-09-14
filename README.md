@@ -1,16 +1,9 @@
-# cara_coroa
+# Cara ou Coroa
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/Lowez/Flutter-CaraOuCoroa/assets/91566814/0481078c-0a54-486a-8202-f7771acb0543)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/Lowez/Flutter-CaraOuCoroa/assets/91566814/c9a9d153-3474-415a-a76a-07bc333520a2)
